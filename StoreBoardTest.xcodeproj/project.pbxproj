@@ -49,6 +49,7 @@
 		33AB9EF918A534D2007671B7 /* PlayerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 33AB9EF818A534D2007671B7 /* PlayerCell.m */; };
 		33F8CB5418A608BB00C0B6D3 /* PlayerDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33F8CB5318A608BB00C0B6D3 /* PlayerDetailsViewController.m */; };
 		33F8CB5718A613F600C0B6D3 /* GamePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33F8CB5618A613F600C0B6D3 /* GamePickerViewController.m */; };
+		33F8CB5918A61C7D00C0B6D3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 33F8CB5818A61C7D00C0B6D3 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -113,6 +114,7 @@
 		33F8CB5318A608BB00C0B6D3 /* PlayerDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerDetailsViewController.m; sourceTree = "<group>"; };
 		33F8CB5518A613F600C0B6D3 /* GamePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GamePickerViewController.h; sourceTree = "<group>"; };
 		33F8CB5618A613F600C0B6D3 /* GamePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GamePickerViewController.m; sourceTree = "<group>"; };
+		33F8CB5818A61C7D00C0B6D3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +180,7 @@
 				33AB9EF018A52D31007671B7 /* Classes */,
 				33AB9EBC18A52A2E007671B7 /* Images */,
 				33AB9E9F18A51865007671B7 /* Images.xcassets */,
+				33F8CB5818A61C7D00C0B6D3 /* README.md */,
 				33AB9E8E18A51865007671B7 /* Supporting Files */,
 			);
 			path = StoreBoardTest;
@@ -346,6 +349,7 @@
 				33AB9E9218A51865007671B7 /* InfoPlist.strings in Resources */,
 				33AB9EEA18A52A2E007671B7 /* Gestures@2x.png in Resources */,
 				33AB9EDD18A52A2E007671B7 /* 3Stars.png in Resources */,
+				33F8CB5918A61C7D00C0B6D3 /* README.md in Resources */,
 				33AB9EE918A52A2E007671B7 /* Gestures.png in Resources */,
 				33AB9E9B18A51865007671B7 /* Main.storyboard in Resources */,
 				33AB9EEB18A52A2E007671B7 /* Players.png in Resources */,
